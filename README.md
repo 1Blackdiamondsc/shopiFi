@@ -1,0 +1,2 @@
+# shopiFi
+ShopiFi is an ecommerce plugin to instantly deposit funds into a DeFi protocol. Any e-commerce solution can install the plugin to allow mainstream users access to Compound, Pool Together, and Chai all via a credit card or Apple/Google Pay. To demonstrate ShopiFi, we launched an e-commerce site selling breakfast cereal, called “General Shills”, because cereal is an important part of a (re)balanced breakfast.
